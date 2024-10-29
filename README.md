@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taimoor Ahmad</h1>
 <h3 align="center">A passionate full stack web developer from Pakistan</h3>
-<img src="https://dribbble.com/shots/6581243-Digital-Marketing" width="400" alt="Coding">
+<img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" width="400" align="center" alt="Coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taimoorahmadwebpenter&label=Profile%20views&color=0e75b6&style=flat" alt="taimoorahmadwebpenter" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
